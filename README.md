@@ -5,7 +5,7 @@ What i learned.
 ## Frontend
 - [HTML](https://github.com/pksung1/TIL/tree/master/HTML)
 - [CSS](https://github.com/pksung1/TIL/tree/master/CSS)
-- [JS](https://github.com/pksung1/TIL/tree/master/JS)
+- [JS](https://github.com/pksung1/learn-javascript)
 
 ## Backend
 - [Nodejs](https://github.com/pksung1/TIL/tree/master/Nodejs)
